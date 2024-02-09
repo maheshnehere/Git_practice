@@ -1,8 +1,10 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        String firstname = "Mahesh";
 
-        System.out.printf("I am from main 1  & one ");
+        String lastname ="Nehere";
+
+        System.out.printf(firstname);
+        System.out.println(lastname);
     }
 }
